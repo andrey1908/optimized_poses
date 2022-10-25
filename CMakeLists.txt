@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(optimized_poses)
+project(optimization_results_msgs)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 add_compile_options(-std=c++17)
@@ -52,7 +52,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   Trajectory.msg
-  OptimizedPoses.msg
+  OptimizationResults.msg
 )
 
 ## Generate services in the 'srv' folder
