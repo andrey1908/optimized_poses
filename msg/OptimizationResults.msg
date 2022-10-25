@@ -1,5 +1,5 @@
 Header header
 
 Trajectory[] trajectories
-geometry_msgs/TransformStamped odometry_correction
+geometry_msgs/TransformStamped map_to_odom
 
