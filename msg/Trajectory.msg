@@ -1,1 +1,1 @@
-geometry_msgs/TransformStamped[] global_poses
+geometry_msgs/PoseStamped[] global_poses

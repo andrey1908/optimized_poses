@@ -1,3 +1,4 @@
+int32 active_trajectory_index
+string active_trajectory_child_frame_id
+geometry_msgs/TransformStamped active_trajectory_odometry_correction
 Trajectory[] trajectories
-geometry_msgs/TransformStamped map_to_odom
-
