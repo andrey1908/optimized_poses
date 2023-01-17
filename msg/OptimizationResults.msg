@@ -1,4 +1,4 @@
-int32 active_trajectory_index
-geometry_msgs/TransformStamped active_trajectory_odometry_correction
-string active_trajectory_child_frame_id
+int32 current_trajectory_index
+geometry_msgs/TransformStamped current_global_to_odometry
+string current_child_frame_id
 Trajectory[] trajectories
