@@ -1,5 +1,2 @@
-int32 current_trajectory_index
-geometry_msgs/TransformStamped current_global_to_odometry
-string current_child_frame_id
+geometry_msgs/TransformStamped global_to_odometry
 Trajectory[] trajectories
-int32[] frozen_trajectory_indices
