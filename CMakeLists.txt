@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(optimization_results_msgs)
+project(slam_communication_msgs)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 add_compile_options(-std=c++17)
