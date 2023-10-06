@@ -53,6 +53,7 @@ add_message_files(
   FILES
   Trajectory.msg
   OptimizationResults.msg
+  NodesToRemove.msg
 )
 
 ## Generate services in the 'srv' folder
